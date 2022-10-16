@@ -1,4 +1,4 @@
-module github.com/dghubble/sling
+module github.com/rsj-ioki/sling
 
 go 1.16
 
